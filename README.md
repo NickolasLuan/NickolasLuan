@@ -1,4 +1,4 @@
-# Olá, me chamo Nickolas e sou desenvolvedor de Software!
+# Olá, eu sou o Nickolas!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
