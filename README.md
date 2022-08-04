@@ -1,4 +1,4 @@
-# Olá, eu sou o Nickolas!
+## Olá, eu sou o Nickolas!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -18,6 +18,8 @@
   
   
 </div>
+
+  ##
   
   ### Contact
   
